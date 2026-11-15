@@ -26,4 +26,6 @@ Smart TVs ship with whatever their maker decided to give you. We build open-sour
 
 Read [mkTV's CONTRIBUTING guide](https://github.com/MKTVHub/mkTV/blob/main/CONTRIBUTING.md) and the [roadmap](https://github.com/MKTVHub/mkTV/blob/main/docs/ROADMAP.md). Ports to other TV platforms are very welcome.
 
+Part of [Lax Society](https://laxsociety.github.io): open-source apps, built in public.
+
 <sub>© 2026 MKTVHub</sub>
